@@ -33,12 +33,12 @@ SQL : MariaDB
 Spring Framework
 Visual Studio
 JDK : Java 17
-![떠날지도_아키텍처](https://github.com/user-attachments/assets/43ab3052-dc83-404e-baec-7367900644b4)
-![떠날지도_기술스택](https://github.com/user-attachments/assets/5d41d540-a8ae-4099-b143-505e0497da30)
+![Leaf2U_아키텍처]
+![Leaf2U_기술스택](<img width="370" alt="기술 스택" src="https://github.com/user-attachments/assets/0df7a415-9886-4a93-bd2f-3d7cba66a7b8" />)
 
 
 ## ERD
-![떠날지도_ERD](https://github.com/user-attachments/assets/cc2598e3-8b74-4e4d-8b16-7f2ee7263e8d)
+![Leaf2U_ERD]()
 
 
 ## 화면 설계
@@ -47,7 +47,7 @@ https://www.figma.com/design/MzUjlbn5DfQmcFDjdAKT5n/2%EC%B0%A8-%ED%94%84%EB%A1%9
 
 ## 발표 PPT
 
-[신한-DS-1차-프로젝트-_-떠날지도-발표PPT.pdf]<img width="370" alt="기술 스택" src="https://github.com/user-attachments/assets/0df7a415-9886-4a93-bd2f-3d7cba66a7b8" />
+[신한-DS-1차-프로젝트-_-떠날지도-발표PPT.pdf]
 
 
 
