@@ -1,25 +1,53 @@
 # Leaf2U_api
 신한 DS 금융 SW 아카데미 4기 7회차 - 2차 프로젝트 리프투유 API
 
+
 # Leaf2U란?
 작은 실천(Leaf, 나뭇잎)이 돌고 돌아 당신에게로 돌아간다는 뜻을 담아낸 이름
 
 환경을 위해 실천하는 작은 행동이 모여 결국 우리 모두에게 이익으로 돌아온다.
+
 
 # 개요
 매일 매일 소액을 저축하는 저축습관을 들이는 동시에 환경을 생각하는 기후행동 챌린지 도전
 
 챌린지를 진행할수록 높아지는 금리, 만기해지 후 얻은 이자를 환경단체에 후원함으로써 사회 환원
 
+
 # 주요 기능
-
 * 카카오 api를 이용한 로그인
- 숙소 검색, 등록 및 예약 / 결제
- 숙소, 객실, 여행지 등록 / 수정 / 삭제
- 네이버 Map API와 연동하여 숙소 주변 여행지 추천
- 정산 및 정산 내역 관리
- 1:1 문의, 공지사항, 자주 묻는 질문 등 고객과의 소통 창구
+* 카드/적금 생성
+* 납입 및 챌린지 인증 (오픈 API를 활용한 AI인증)
+* AI 피드백
+* 포인트 적립, 만보기, AI 퀴즈 생성
+* 뉴스 API 및 미세먼지 API (공공 데이터)
+* 이자 조회
+* 적금 만기 해지
+* 통계 기여도 (랭킹 및 탄소 배출량 확인 가능)
+* 기부 증서 다운로드
 
+
+## 개발 환경 및 기술 스택
+언어 : Java, JS
+SQL : MariaDB
+Spring Framework
+Visual Studio
+JDK : Java 17
+![떠날지도_아키텍처](https://github.com/user-attachments/assets/43ab3052-dc83-404e-baec-7367900644b4)
+![떠날지도_기술스택](https://github.com/user-attachments/assets/5d41d540-a8ae-4099-b143-505e0497da30)
+
+
+## ERD
+![떠날지도_ERD](https://github.com/user-attachments/assets/cc2598e3-8b74-4e4d-8b16-7f2ee7263e8d)
+
+
+## 화면 설계
+https://www.figma.com/design/MzUjlbn5DfQmcFDjdAKT5n/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8---Leaf-To-You-%EB%AA%A9%EC%97%85?node-id=1224-1866&p=f&t=3tJeA6gpPhIHsV5l-0
+
+
+## 발표 PPT
+
+[신한-DS-1차-프로젝트-_-떠날지도-발표PPT.pdf]<img width="370" alt="기술 스택" src="https://github.com/user-attachments/assets/0df7a415-9886-4a93-bd2f-3d7cba66a7b8" />
 
 
 
