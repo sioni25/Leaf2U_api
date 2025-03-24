@@ -46,8 +46,7 @@ https://www.figma.com/design/MzUjlbn5DfQmcFDjdAKT5n/2%EC%B0%A8-%ED%94%84%EB%A1%9
 
 
 ## 발표 PPT
+[Leaf2U-PPT.pdf](https://github.com/user-attachments/files/19416358/Leaf2U-PPT.pdf)
 
-[신한-DS-1차-프로젝트-_-떠날지도-발표PPT.pdf]
-
-
-
+## Leaf2U_react
+https://github.com/ShinhanDS4-2/Leaf2U_react
