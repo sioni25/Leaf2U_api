@@ -32,14 +32,14 @@
 * SQL : MariaDB
 * Spring Framework
 * Visual Studio
-*JDK : Java 17
+* JDK : Java 17
 
 ![Leaf2U_기술스택]<img width="370" alt="기술 스택" src="https://github.com/user-attachments/assets/862625a6-2f9a-44da-b049-f331da2e6976" />
 
 
 
 ## ERD
-![Leaf2U_ERD]![Leaf2U_ERD](https://github.com/user-attachments/assets/73a07da2-8d50-45a0-a503-fe5f5b5532e7)
+![Leaf2U_ERD](https://github.com/user-attachments/assets/73a07da2-8d50-45a0-a503-fe5f5b5532e7)
 
 
 
