@@ -33,7 +33,7 @@ SQL : MariaDB
 Spring Framework
 Visual Studio
 JDK : Java 17
-![Leaf2U_아키텍처]![Leaf2U_ERD](https://github.com/user-attachments/assets/8e2b8eaa-467d-45ef-b2fa-0b2a9354608f)
+![Leaf2U_아키텍처][Leaf2U_ERD](https://github.com/user-attachments/assets/8e2b8eaa-467d-45ef-b2fa-0b2a9354608f)
 ![Leaf2U_기술스택]<img width="370" alt="기술 스택" src="https://github.com/user-attachments/assets/862625a6-2f9a-44da-b049-f331da2e6976" />
 
 
