@@ -30,7 +30,7 @@
 ## 개발 환경 및 기술 스택
 * 언어 : Java, JS
 * SQL : MariaDB
-* Spring Framework
+* Spring Framework, React, JPA
 * Visual Studio
 * JDK : Java 17
   
